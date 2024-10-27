@@ -1,0 +1,16 @@
+## Interface: 100002
+## Title:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Voicepack DrunkFuj|r
+## Title-ruRU:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Демо-версия голосового пакета|r
+## Title-zhCN:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0DrunkFuj 语音包|r
+## Title-zhTW:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0DrunkFuj 語音包|r
+## DefaultState: enabled
+## RequiredDeps: DBM-Core
+## Author: DrunkFuj
+## Version: DBM-VPDrunkFuj-V13
+## X-Curse-Project-ID: 87828
+## X-DBM-Voice: 1
+## X-DBM-Voice-Name: DrunkFuj by DrunkFuj
+## X-DBM-Voice-Name-ruRU: Голосовой пакет DrunkFuj
+## X-DBM-Voice-ShortName: DrunkFuj
+## X-DBM-Voice-Version: 17
+## X-DBM-Voice-HasCount: 1
